@@ -1,3 +1,9 @@
+"""Aquí hay una serie de varios ejercicios, que si bien no están relacionados entre sí, se colocaron
+aparentando como si lo estuvieran, con el simple objetivo de que estén todas las prácticas juntas 
+en un mismo archivo. 
+En cada comentario se puede ver la consigna de cada ejercicio."""
+
+
 #Hacer un programa para solicitar por teclado un número y luego devolver su valor elevado al cubo.
 nombre = input("Por favor, ingrese su nombre: ")
 print("Bienvenido", nombre + ". Como primer paso vamos a elevar al cubo el número que usted desee (debe ser un número entero). ") 
